@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a second-year Computer Science Ph.D. student at Cornell University. I am located at Cornell Tech in NYC, where I am fortunate to work with [Prof. Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). My research interests center around **probabilistic generative models** and their applications in scientific domains. Lately, I have developed a strong interest in **diffusion language models**.
+I am a second-year Computer Science Ph.D. student at Cornell Tech in NYC, where I am fortunate to work with [Prof. Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). My research interests center around **probabilistic generative models** and their applications in scientific domains. Lately, I have developed a strong interest in **diffusion language models**.
 
 
 Before coming to Cornell, I earned my bachelor’s degree in Computer Science and Technology from Tsinghua University with honor (2020-2024). In 2023, I spent a wonderful summer at CMU collaborating with [Prof. Jian Ma](https://www.cs.cmu.edu/~jianma/).
