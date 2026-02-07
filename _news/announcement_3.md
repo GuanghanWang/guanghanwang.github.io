@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-[ReMDM](https://remdm.github.io) has been accepted to NeurIPS 2025.
+[ReMDM](https://guanghanwang.com/remdm.github.io) has been accepted to NeurIPS 2025.
 
 
 <!-- ---
