@@ -467,7 +467,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Guanghan Wang", "_blank");
+          window.open("https://www.linkedin.com/in/guanghan-wang-703773360", "_blank");
         },
       },{
         id: 'social-scholar',
